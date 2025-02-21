@@ -1,0 +1,2 @@
+# cdnpayload
+CDN serves payload.
